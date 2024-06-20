@@ -1,3 +1,4 @@
+//kalki 
 class ArmstrongRange1
 {
 	public static void main(String args[])
